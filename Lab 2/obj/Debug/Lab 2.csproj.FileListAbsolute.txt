@@ -1,0 +1,29 @@
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\bin\Debug\OpenTK.dll
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\bin\Debug\OpenTK.xml
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab_2.Form1.resources
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CopyComplete
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\STALKER\Desktop\Компьютерная графика\ComputerGraphics\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\Podov\Desktop\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Podov\Desktop\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Podov\Desktop\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Podov\Desktop\Lab 2\Lab 2\bin\Debug\OpenTK.dll
+C:\Users\Podov\Desktop\Lab 2\Lab 2\bin\Debug\OpenTK.xml
+C:\Users\Podov\Desktop\Lab 2\Lab 2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab_2.Form1.resources
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CopyComplete
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Podov\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
