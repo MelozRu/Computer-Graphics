@@ -1,0 +1,66 @@
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenGL.exe
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenGL.pdb
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.Compatibility.dll
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.dll
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.GLControl.dll
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.pdb
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.xml
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.dll.config
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.Compatibility.dll.config
+C:\2 курс\КГ\Raytracing\Raytracing\bin\Debug\OpenTK.GLControl.xml
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csprojAssemblyReference.cache
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\OpenGL.Form1.resources
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csproj.GenerateResource.cache
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csproj.CoreCompileInputs.cache
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csproj.CopyComplete
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\OpenGL.exe
+C:\2 курс\КГ\Raytracing\Raytracing\obj\x86\Debug\OpenGL.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenGL.exe
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenGL.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.dll
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.xml
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.dll.config
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csprojAssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\Raytracing.csproj.CopyComplete
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\OpenGL.exe
+C:\Users\artem\OneDrive\Рабочий стол\Raytracing\Raytracing\obj\x86\Debug\OpenGL.pdb
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\bin\Debug\OpenGL.exe
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\bin\Debug\OpenGL.pdb
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\bin\Debug\OpenTK.pdb
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\bin\Debug\OpenTK.xml
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\bin\Debug\OpenTK.dll.config
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\Raytracing.csprojAssemblyReference.cache
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\Raytracing.csproj.GenerateResource.cache
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\Raytracing.csproj.CoreCompileInputs.cache
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\Raytracing.csproj.CopyComplete
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\OpenGL.exe
+C:\Users\Podov\Desktop\ComputerGraphics3-main\Raytracing\obj\x86\Debug\OpenGL.pdb
+C:\Users\Podov\Desktop\Lab-3\Raytracing\bin\Debug\OpenGL.exe
+C:\Users\Podov\Desktop\Lab-3\Raytracing\bin\Debug\OpenGL.pdb
+C:\Users\Podov\Desktop\Lab-3\Raytracing\bin\Debug\OpenTK.pdb
+C:\Users\Podov\Desktop\Lab-3\Raytracing\bin\Debug\OpenTK.xml
+C:\Users\Podov\Desktop\Lab-3\Raytracing\bin\Debug\OpenTK.dll.config
+C:\Users\Podov\Desktop\Lab-3\Raytracing\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Podov\Desktop\Lab-3\Raytracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\Raytracing.csprojAssemblyReference.cache
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\Raytracing.csproj.GenerateResource.cache
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\Raytracing.csproj.CoreCompileInputs.cache
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\Raytracing.csproj.CopyComplete
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\OpenGL.exe
+C:\Users\Podov\Desktop\Lab-3\Raytracing\obj\x86\Debug\OpenGL.pdb
